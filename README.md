@@ -6,7 +6,7 @@ This is a special edition, ONLY for [TigerInTheWall](https://github.com/TigerBea
 
 ## Requirements
 
-* Zygote inject framework installed
+* Zygote inject framework installed 
   - Riru >= 26.0
   - Zygisk >= 24000
 * Android 8.0+
